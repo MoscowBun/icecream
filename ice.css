@@ -112,11 +112,12 @@ body {
   background: url(photo1.png);
   background-repeat: no-repeat;
   height: 700px;
+  width: 500px
 }
 .photo2 {
   background: url(photo2.png);
   transform: rotate(4.79deg);
-  margin-top: -1230px;
+  margin-top: -800px;
   margin-left: -211px;
   height: 557px;
   background-repeat: no-repeat;
