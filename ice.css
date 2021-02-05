@@ -67,7 +67,7 @@ body {
   font-size: 16px;
   line-height: 40px;
   color: #fafafa;
-  padding: 0 50px;
+  margin-lefr: 50px;
 }
 .HeroArea {
   display: flex;
@@ -189,6 +189,7 @@ body {
   padding-left: 38px;
   margin-top: 108px;
   margin-bottom: 146px;
+  margin-left: 50px;
 }
 .ice1 {
   height: 656.8px;
@@ -379,7 +380,7 @@ body {
   font-size: 16px;
   line-height: 40px;
   color: #fafafa;
-  margin-left: 50px;
+  margin-right: 50px;
 }
 .New_price2 p {
   font-family: Hind Madurai;
@@ -822,5 +823,23 @@ body {
   font-size: 16px;
   line-height: 40px;
   color: #fafafa;
-  margin-left: -50px;
+  margin-left: 50px;
+}
+.buttonIce2 {
+  width: 165px;
+  height: 45px;
+  margin-top: 10px;
+  background: #d23166;
+  border-radius: 5px;
+  margin-left: 745px;
+}
+.buttonIce2 a {
+  width: 65px;
+  font-family: Hind Madurai;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 40px;
+  color: #fafafa;
+  margin-right: 50px;
 }
