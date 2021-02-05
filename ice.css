@@ -330,7 +330,7 @@ body {
   font-size: 16px;
   line-height: 40px;
   color: #fafafa;
-  padding: 0 50px;
+  margin-left: 50px;
 }
 .ice2 {
   text-align: right;
@@ -379,7 +379,7 @@ body {
   font-size: 16px;
   line-height: 40px;
   color: #fafafa;
-  padding: 0 50px;
+  margin-left: 50px;
 }
 .New_price2 p {
   font-family: Hind Madurai;
@@ -802,7 +802,7 @@ body {
   line-height: 40px;
   color: #fafafa;
   text-align: center;
-  padding-left: 38px;
+  margin-left: 38px;
   margin-top: 108px;
   margin-bottom: 146px;
 }
