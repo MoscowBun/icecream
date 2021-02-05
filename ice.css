@@ -216,7 +216,7 @@ body {
   margin-top: 100px;
 }
 .disk h5 {
-  width: 152px;
+  width: 200px;
   height: 11px;
   margin-left: 745px;
   font-family: Hind Madurai;
@@ -764,48 +764,4 @@ body {
     background: black;
     width: 1500px;
   }
-  .button a {
-  width: 65px;
-  font-family: Hind Madurai;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 16px;
-  line-height: 40px;
-  color: #fafafa;
-  padding: 0 50px;
-}
-  .buttonIce2 a {
-  width: 65px;
-  font-family: Hind Madurai;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 16px;
-  line-height: 40px;
-  color: #fafafa;
-  padding: 0 50px;
-}
-  .SeeDetails {
-  width: 82px;
-  height: 19.05px;
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 44px;
-  color: #fafafa;
-  text-align: center;
-  padding-left: 38px;
-  margin-top: 108px;
-  margin-bottom: 146px;
-}
-  .buttonIce a {
-  width: 65px;
-  font-family: Hind Madurai;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 16px;
-  line-height: 40px;
-  color: #fafafa;
-  padding: 0 50px;
-}
 }
