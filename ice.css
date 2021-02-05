@@ -806,4 +806,21 @@ body {
   margin-top: 108px;
   margin-bottom: 146px;
 }
+  .buttonIce {
+  width: 165px;
+  height: 45px;
+  margin-top: 10px;
+  background: #d23166;
+  border-radius: 5px;
+  margin-left: 745px;
+}
+.buttonIce a {
+  width: 65px;
+  font-family: Hind Madurai;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 40px;
+  color: #fafafa;
+  margin-left: -50px;
 }
