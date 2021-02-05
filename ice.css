@@ -721,7 +721,7 @@ body {
   margin-left: 750px;
   margin-top: 15px;
 }
-@media (max-width: 450px) {
+@media (max-width: 420px) {
   .content {
     margin-left: 50px;
   }
